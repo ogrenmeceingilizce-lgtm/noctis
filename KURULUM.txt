@@ -1,0 +1,32 @@
+NOCTIS · Yaşayan Organizma v0.4
+================================
+
+HIZLI KULLANIM
+1. ZIP dosyasını ayrı bir klasöre çıkarın.
+2. index.html dosyasını tarayıcıda açın.
+3. Kayıtlar aynı tarayıcının yerel depolamasında tutulur.
+
+PWA OLARAK KURULUM
+PWA kurulumu ve çevrimdışı önbellek için klasörü localhost veya HTTPS üzerinden açın.
+Bilgisayarınızda Python kuruluysa klasörde bir terminal açıp şunu çalıştırabilirsiniz:
+
+  python -m http.server 8080
+
+Ardından tarayıcıda http://localhost:8080 adresini açıp tarayıcının “Uygulamayı yükle” seçeneğini kullanın.
+
+VERİLER VE GÖÇ
+- v0.3 verileri aynı tarayıcı profilindeyse açılışta otomatik olarak v0.4 yapısına taşınır.
+- Eski JSON yedekleri “Yedek içe aktar” ile yüklenirken güncel yapıya dönüştürülür.
+- Güncellemeden veya tarayıcı verilerini temizlemeden önce “JSON yedeği indir” seçeneğini kullanın.
+
+GÖRSEL GELİŞİM
+- Dünyevi çalışma: gövde, dallar ve yapraklar.
+- Dinî çalışma: beyaz çiçekler.
+- Dinlenme: kökler, miselyum, mantarlar ve orman ekolojisi.
+- Maddi yardım: altın ışıklı meyveler.
+- Dengeli faaliyet: büyüme bonusu ve nadir simbiyotik yapılar.
+- Disiplin ihlali: gövdede kalıcı yara izleri.
+- Ana görsel eşikler: 1., 5. ve 15. kayıt günü.
+
+NOT
+Beş günlük duvar kâğıdı JSON arşivi, kronometre, elle kayıt, ödül dakikaları, organizmaya aktarılan dakikalar, doğa sesleri, sıfırlama ve yedekleme özellikleri korunmuştur.
